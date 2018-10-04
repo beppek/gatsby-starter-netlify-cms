@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Stuff
-image: /img/flavor_wheel.jpg
+image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
